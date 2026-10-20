@@ -65,6 +65,7 @@ Python, JavaScript, Java, Kotlin, PHP, Dart, C++ and Delphi**.
 | [**pwfauth-cpp-client**](https://github.com/pwfauth/pwfauth-cpp-client) | Native C++17 desktop sample |
 | [**pwfauth-python-client**](https://github.com/pwfauth/pwfauth-python-client) | Python client for every endpoint |
 | [**pwfauth-python-desktop-sample**](https://github.com/pwfauth/pwfauth-python-desktop-sample) | Tkinter desktop sample with live heartbeat sessions |
+| [**pwfauth-android**](https://github.com/pwfauth/pwfauth-android) | Android demo app in Kotlin + Jetpack Compose: licence keys, customer accounts and the kill switch on a phone |
 
 ## 🔗 Links
 
