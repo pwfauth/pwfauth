@@ -66,6 +66,7 @@ Python, JavaScript, Java, Kotlin, PHP, Dart, C++ and Delphi**.
 | [**pwfauth-python-client**](https://github.com/pwfauth/pwfauth-python-client) | Python client for every endpoint |
 | [**pwfauth-python-desktop-sample**](https://github.com/pwfauth/pwfauth-python-desktop-sample) | Tkinter desktop sample with live heartbeat sessions |
 | [**pwfauth-android**](https://github.com/pwfauth/pwfauth-android) | Android demo app in Kotlin + Jetpack Compose: licence keys, customer accounts and the kill switch on a phone |
+| [**python-cli-license-starter**](https://github.com/pwfauth/python-cli-license-starter) | Template for selling a Python command-line tool: key activation, free trial, the kill switch on a running job and a single-exe build (Typer + Rich) |
 
 ## 🔗 Links
 
